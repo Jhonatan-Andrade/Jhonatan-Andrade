@@ -26,7 +26,7 @@
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
-<p align="center">
+<p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Jhonatan-Andrade&show_icons=true&theme=radical" alt="Jhonatan-Andrade's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatan-Andrade&layout=compact&theme=radical" alt="Jhonatan-Andrade's most languages"/>
 </p>
