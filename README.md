@@ -4,7 +4,7 @@
 
  🔥 Junior Web Developer 
 
- 👨‍💻 All of my projects are available at [My Projects](https://portfolio-jhonatan.herokuapp.com)
+ 💻 All of my projects are available at [My Projects](https://portfolio-jhonatan.herokuapp.com)
 
  💬 Ask me about **JavaScript, HTML, CSS, React , React Native ,Typescript**
 
