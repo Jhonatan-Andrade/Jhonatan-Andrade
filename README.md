@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Jhonatan-Andrade/14cbb536d991eac2f3814f1c46312f9f/raw/2f9cd9c6e70fadd27be004f008043dc072b823f1/card.svg"/>
+<img align="right" height="590em" src="https://photos.app.goo.gl/x7AR8eoEAKRNfwyT6"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jhonatan Andrade</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
