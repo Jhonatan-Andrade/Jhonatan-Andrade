@@ -1,5 +1,5 @@
 <img align="right" height="450em" src="https://user-images.githubusercontent.com/54241511/157078319-a68907bd-f4b4-4cd8-8f6a-8af956ac9723.png"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="5px">, I'm Jhonatan Andrade</h1>
+<h1 align="left">Hi, I'm Jhonatan Andrade</h1>
 
 
  🔥 Junior Web Developer 
