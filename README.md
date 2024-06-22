@@ -1,34 +1,29 @@
-<img align="right" height="450em" src="https://user-images.githubusercontent.com/54241511/157078319-a68907bd-f4b4-4cd8-8f6a-8af956ac9723.png"/>
 <h1 align="left">Hi, I'm Jhonatan Andrade</h1>
 
 
- 🔥 Junior Web Developer 
+ 🔥 Junior  Developer
+ ### 🛠 &nbsp;Social midia
 
- 💻 All of my projects are available at [My Projects](https://portfolio-jhonatan.herokuapp.com)
-
- 💬 Ask me about **JavaScript, HTML, CSS, React , React Native ,Typescript**
-
+ 
+ <a href="https://discord.com/invite/Qsbrprkp" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+ <a/>
+ <a href="https://www.linkedin.com/in/jhonatan-andrade-9116241ab/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ <a/>
 <br>
 
-## 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logoColor=E18335&logo=react)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Styled Componets](https://img.shields.io/badge/-Styled%20Componets-05122A?style=flat&logo=styled-components)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-<br>
-
-## ⚙️ &nbsp;GitHub Analytics
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatan-Andrade&layout=compact&theme=radical" alt="Jhonatan-Andrade's most languages"/>
-</p>
-
-
-
+![HTML](https://img.shields.io/badge/-HTML-05122A?&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?&logo=CSS3&)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?&logo=react)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?&logo=typescript)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-05122A?&logo=tailwindcss)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-05122A?&logo=prisma)&nbsp;
+![Postgresql ](https://img.shields.io/badge/-PostgreSQL-05122A?&logo=postgresql)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?&logo=visual-studio-code&)&nbsp;
