@@ -5,9 +5,6 @@
  ### 🛠 &nbsp;Social midia
 
  
- <a href="https://discord.com/invite/Qsbrprkp" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
- <a/>
  <a href="https://www.linkedin.com/in/jhonatan-andrade-9116241ab/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  <a/>
